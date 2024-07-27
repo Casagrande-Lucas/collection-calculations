@@ -35,7 +35,7 @@ Cada cálculo é realizado em uma goroutine separada, que envia o resultado para
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/Casagrande-Lucas/collection-calculations.git
+   git clone git@github.com:Casagrande-Lucas/collection-calculations-goroutines.git
    cd collection-calculations
 
 2. Compile o projeto:
