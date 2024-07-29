@@ -24,7 +24,7 @@ Cada cálculo é realizado em uma goroutine separada, que envia o resultado para
 - **Execução de Goroutines:** Cada cálculo é executado em uma goroutine separada, que envia o resultado para o respectivo canal.
 - **Coleta de Resultados:** Goroutines adicionais são usadas para coletar os resultados dos canais e armazená-los em uma lista.
 - **Exibição de Resultados:** Após a conclusão de todas as goroutines, os resultados são exibidos de maneira ordenada.
-- 
+
 ## Instalação e Execução
 
 ### Pré-requisitos
