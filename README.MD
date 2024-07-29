@@ -36,12 +36,12 @@ Cada cálculo é realizado em uma goroutine separada, que envia o resultado para
 1. Clone o repositório:
    ```sh
    git clone git@github.com:Casagrande-Lucas/collection-calculations-goroutines.git
-   cd collection-calculations
+   cd collection-calculations-goroutines
 
 2. Compile o projeto:
    ```sh
-   go build -o collection_calculations main.go
+   go build -o collection_calculations_goroutines main.go
 
 3. Execute o projeto:
    ```sh
-   ./collection_calculations
+   ./collection_calculations_goroutines
